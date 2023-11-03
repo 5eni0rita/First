@@ -1,4 +1,4 @@
 # First
 This is my first repository. <br>
-Athor: Noceur <br>
+Author: Noceur <br>
 By: Omniscient
